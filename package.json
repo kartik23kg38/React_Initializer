@@ -1,0 +1,23 @@
+{
+  "name": "react_initializer",
+  "version": "1.0.0",
+  "description": "Initial proj basics for react",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kartik23kg38/React_Initializer.git)"
+  },
+  "author": "Kartik Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
