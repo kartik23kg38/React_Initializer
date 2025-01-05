@@ -2,7 +2,6 @@
   "name": "react_initializer",
   "version": "1.0.0",
   "description": "Initial proj basics for react",
-  "main": "script.js",
   "scripts": {
     "test": "jest"
   },
